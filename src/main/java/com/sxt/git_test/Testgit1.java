@@ -7,5 +7,6 @@ public class Testgit1 {
         System.out.println("hello host_mix");
         System.out.println("this is master push");
         System.out.println("this is second master push");
+        System.out.println("this is gitee push");
     }
 }
